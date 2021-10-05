@@ -80,14 +80,9 @@ The total number of reviews, the number of 5-star reviews, and the percentage 5-
 ### Deliverable 3 :
 A written Analysis is submitted:
 
-Participating in the Vine program does not appear to yield more 5-start ratings. We see that 32% of Vine products receive a five star ratings, which is less than the 52% of 
-non-Vine products achieving this rating.
+* Participating in the Vine program does not appear to yield more 5-start ratings. We see that 32% of Vine products receive a five star ratings, which is less than 
+* the 52% of non-Vine products achieving this rating.
 
+* The numbers of Vine reviews in this set is too small to draw solid conclusions, and the product class (watches) might not draw a good sample of Amazon consumers - watches are subject to prestige buying, either to show success (e.g. rolex) or to show athletic ambitions (e.g. ironman watches) as more and more people forgo watches and use their phones to see the time.
 
-The numbers of Vine reviews in this set is too small to draw solid conclusions, and the product class (watches) might not draw a good sample of Amazon consumers - watches are subject to
- prestige buying, either to show success (e.g. rolex) or to show athletic ambitions (e.g. ironman watches) as more and more people forgo watches and use their phones to see the time.
-
-# differences between emerging and established vendors
-The Vine program may be more heavily used by new vendors trying to attract attention and break into the market. It is possible that these newer entries may have less established 
-manufacturing and maybe novel product ideas that don't immediately catch on with their users. It would be interesting to compare multiple products from the same manufacturer to get
- better comparability between the Vine and non-Vine products.
+* The Vine program may be more heavily used by new vendors trying to attract attention and break into the market. It would be interesting to compare multiple products from the     same manufacturer to get better comparability between the Vine and non-Vine products.
