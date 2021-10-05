@@ -17,7 +17,7 @@ the data to the database.
 
 ## Results
 
-###Deliverable 1:
+### Deliverable 1:
  
 -An Amazon Review dataset is extracted as a DataFrame
 -The extracted dataset is transformed into four DataFrames with the correct columns
@@ -77,9 +77,10 @@ The total number of reviews, the number of 5-star reviews, and the percentage 5-
 ![D2-7.PNG](https://github.com/Praveeja-Sasidharan-Suni/Amazon_Vine_Analysis/blob/main/Images/D2-7.PNG?raw=true)
 
 
-## Analysis:
+### Deliverable 3 :
+A written Analysis is submitted:
 
-In short, participating in the Vine program does not appear to yield more 5-start ratings. We see that 32% of Vine products receive a five star ratings, which is less than the 52% of 
+Participating in the Vine program does not appear to yield more 5-start ratings. We see that 32% of Vine products receive a five star ratings, which is less than the 52% of 
 non-Vine products achieving this rating.
 
 
